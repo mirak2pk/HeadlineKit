@@ -16,7 +16,7 @@ Add the following to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "your-repository-url", from: "1.0.0")
+    .package(url: "[your-repository-url](https://github.com/mirak2pk/HeadlineKit)", from: "1.0.0")
 ]
 ```
 
