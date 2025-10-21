@@ -1,4 +1,4 @@
-# HeadlineContainer
+# SectionView
 
 A Swift package providing customizable UI components for iOS applications, including headline containers, scrollable images with zoom effects, and gradient borders.
 
@@ -28,7 +28,7 @@ Or in Xcode:
 
 ## Features
 
-### HeadlineContainer
+### SectionView
 
 A container view that displays a title with optional action button and content. Supports rounded background style.
 
